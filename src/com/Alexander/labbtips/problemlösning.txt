@@ -1,0 +1,23 @@
+Felhantering och problemlösning
+
+Felhantering
+Felsökning
+Error handling
+Hantering
+Kodproblem
+Förberedelseav oväntade problem
+
+Exceptions in java
+huvudorsak: error
+Exceptions: ären oönskad eller oväntad händelse som inträffar under körningen av ett program
+Ogilitg input
+enhetsfel
+Slut på minne
+kodfel
+öppnar en otillgänglig fil
+
+Checked exceptions - IO or compile time exception, missar vi en måsvinge t ex
+Unchecked eceptions - Runtime or null pointer exceptions
+
+Inbyggd felhantering
+
